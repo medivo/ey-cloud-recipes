@@ -1,0 +1,5 @@
+This is a fork of ey-cloud-recipes repo.
+
+As the repo is to be used/customized per app/env, my suggestion would be: keep
+all common changes in master, and keep a long lived branch for each ey cloud
+app where you do the customizations specific to just that app.
